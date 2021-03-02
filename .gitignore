@@ -1,0 +1,10 @@
+.*
+!.travis.yml
+!.coveragerc
+!.gitignore
+__pycache__
+*.pyc
+videos
+resources/coreml/*
+resources/backbone/*
+dataset
